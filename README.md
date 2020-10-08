@@ -10,6 +10,12 @@ I'm a software developer working with React/Typescript/Python.
 - 🌱 We started an open-source initiative [license.sh](https://license.sh) that should educate people about software licenses.
 - 📫 How to reach me
   - vorcak@webscope.io
+- 🌎 Web profiles
+  - [Twitter](https://twitter.com/janvorcak)
+  - [LinkedIn](https://www.linkedin.com/in/j%C3%A1n-vor%C4%8D%C3%A1k-a5b18a6a/)
+  - [Stackoverflow](https://stackoverflow.com/users/786284/jan-vorcak)
+  
+
 
 ## 🤝 What I focus on
 
