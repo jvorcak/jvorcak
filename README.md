@@ -2,7 +2,7 @@
 
 I'm a software developer working with React/Typescript/Python.
 
-- 👨 Father of one
+- 👨 Father of two
 - 🤓 I believe that tests & proper documentation matters more than most people think
 - 👷 I’m currently working on building [Webscope.io](https://webscope.io) company
 - 👯 I’m looking to collaborate/volunteer on something that really matters
