@@ -2,12 +2,11 @@
 
 I'm a software developer working with React/Typescript/Python.
 
-- 👨 Father of one
+- 👨 Father of two
 - 🤓 I believe that tests & proper documentation matters more than most people think
 - 👷 I’m currently working on building [Webscope.io](https://webscope.io) company
 - 👯 I’m looking to collaborate/volunteer on something that really matters
   - If you're looking for an (OSS) contributor for something that is releated to privacy, fake news, health, etc. feel free to reach out to me, maybe I could help.
-- 🌱 We started an open-source initiative [license.sh](https://license.sh) that should educate people about software licenses.
 - 📫 How to reach me
   - vorcak@webscope.io
 - 🌎 Web profiles
