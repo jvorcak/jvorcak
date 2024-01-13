@@ -2,7 +2,7 @@
 
 I'm a software developer working with React/Typescript/Python.
 
-- 👨 Father of two
+- 👨 Father of three
 - 👷 I’m currently working on building [Webscope.io](https://webscope.io) company
 - 🌎 Web profiles
   - [Twitter](https://twitter.com/janvorcak)
